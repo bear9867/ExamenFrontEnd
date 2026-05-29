@@ -3,7 +3,7 @@ import CalificacionesView from '../views/CalificacionesView.vue'
 import RegistroView from '../views/RegistroView.vue'
 
 const router = createRouter({
-  history: createWebHistory(import.meta.env.BASE_URL),
+  history: createWebHistory('/ExamenFrontEnd/'),
   routes: [
     {
       path: '/',
