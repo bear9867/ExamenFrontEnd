@@ -8,7 +8,7 @@ import { RouterLink, RouterView } from 'vue-router'
     <div class="wrapper">
       <nav>
         <RouterLink to="/">Calculo de calificaciones</RouterLink>
-        <RouterLink to="/Formulario de registro">Formulario de registro</RouterLink>
+        <RouterLink to="/formulario-registro">Formulario de registro</RouterLink>
       </nav>
     </div>
   </header>
