@@ -72,9 +72,9 @@
                         this.message2 = `Tu estado es: Aprobado`;
                     }  else if (this.score4 < 80){
                         this.message = `Tu promedio es ${this.score}% `;
-                        this.message2 = `Tu estado es: Reprobado por asistencia`;
+                        this.message2 = `Tu estado es: Reprobado por asistencia `;
                         if (this.score < 40 ){
-                             this.message2 += ` y promedio.`;
+                             this.message2 += `y promedio.`;
                         }
                     } else{
                         this.message = `Tu promedio es ${this.score} `;
