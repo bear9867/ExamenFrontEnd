@@ -138,7 +138,6 @@
         cursor: pointer;
     }
 
-    /* Estilos adicionales para mejorar la apariencia */
     form {
         display: flex;
         flex-direction: column;
